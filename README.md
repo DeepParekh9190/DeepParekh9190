@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DeepParekh9190/DeepParekh9190/main/assets/banner.svg?v=2" width="100%" alt="Deep Parekh - front-end developer" />
+  <img src="https://raw.githubusercontent.com/DeepParekh9190/DeepParekh9190/main/assets/hero.svg" width="100%" alt="Deep Parekh - front-end developer" />
 </p>
 
 <p align="center">
