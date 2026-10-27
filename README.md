@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DeepParekh9190/DeepParekh9190/main/assets/banner.svg" width="100%" alt="Deep Parekh - front-end developer" />
+  <img src="https://raw.githubusercontent.com/DeepParekh9190/DeepParekh9190/main/assets/banner.svg?v=2" width="100%" alt="Deep Parekh - front-end developer" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DeepParekh9190/DeepParekh9190/main/assets/divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/DeepParekh9190/DeepParekh9190/main/assets/divider.svg?v=2" width="100%" alt="" />
 </p>
 
 <h3 align="center">⚡ FEATURED BUILDS</h3>
@@ -66,7 +66,7 @@
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DeepParekh9190/DeepParekh9190/main/assets/divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/DeepParekh9190/DeepParekh9190/main/assets/divider.svg?v=2" width="100%" alt="" />
 </p>
 
 <h3 align="center">🧩 STACK</h3>
@@ -85,7 +85,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DeepParekh9190/DeepParekh9190/main/assets/divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/DeepParekh9190/DeepParekh9190/main/assets/divider.svg?v=2" width="100%" alt="" />
 </p>
 
 <h3 align="center">📊 TELEMETRY</h3>
