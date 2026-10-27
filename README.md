@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4c1d95,100:8b5cf6&height=200&section=header&text=Deep%20Parekh&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Front-End%20Developer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" />
+  <img src="https://raw.githubusercontent.com/DeepParekh9190/DeepParekh9190/main/assets/banner.svg" width="100%" alt="Deep Parekh - front-end developer" />
 </p>
 
 <p align="center">
   <a href="https://deep-parekh.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=560&lines=React+%2B+TypeScript+%2B+Tailwind;Offline-first+UI+for+real+constraints;Turning+designs+into+shipped+products" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=React+%2B+TypeScript+%2B+Tailwind;Offline-first+UI+for+real+constraints;Turning+designs+into+shipped+products" alt="typing" />
   </a>
 </p>
 
@@ -15,13 +15,10 @@
 </p>
 
 <p align="center">
-  <i>Front-end developer building production interfaces at Eternal CraftLab.</i><br/>
-  <sub>Currently open to front-end roles.</sub>
+  <img src="https://raw.githubusercontent.com/DeepParekh9190/DeepParekh9190/main/assets/divider.svg" width="100%" alt="" />
 </p>
 
----
-
-### ⚡ Featured builds
+<h3 align="center">⚡ FEATURED BUILDS</h3>
 
 <table>
   <tr>
@@ -68,9 +65,11 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DeepParekh9190/DeepParekh9190/main/assets/divider.svg" width="100%" alt="" />
+</p>
 
-### 🧩 Stack
+<h3 align="center">🧩 STACK</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -85,9 +84,11 @@
   <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DeepParekh9190/DeepParekh9190/main/assets/divider.svg" width="100%" alt="" />
+</p>
 
-### 📊 Activity
+<h3 align="center">📊 TELEMETRY</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeepParekh9190&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&rank_icon=github" height="165" />
@@ -98,8 +99,10 @@
   <img src="https://streak-stats.demolab.com?user=DeepParekh9190&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A855F7&currStreakLabel=8B5CF6" height="150" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DeepParekh9190/DeepParekh9190/output/snake-dark.svg" width="100%" alt="contribution snake" />
+</p>
 
 <p align="center">
-  <sub>Built with React, TypeScript and too many late-night deploys.</sub>
+  <sub><code>npm run build</code> · shipped on Vercel · open to front-end roles</sub>
 </p>
